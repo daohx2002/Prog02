@@ -4,6 +4,6 @@ gcc myid.c -o myid
 
 
 # mypassword
-Chạy dưới quyền root
-gcc mypassword.c -i mypassword -lcrypt
-./mypassword
+Chạy dưới quyền root  
+gcc mypassword.c -i mypassword -lcrypt  
+./mypassword  
